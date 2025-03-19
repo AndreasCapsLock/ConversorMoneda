@@ -21,4 +21,4 @@ Una vez realizado el archivo compilado, para ejecutarlo debe realizar lo siguien
 Desde la terminal, una vez se encuentre en la carpeta, navegando mediante el comando "cd", debe ejecutar el codigo compilado colocando: ./"NombreDelArchivoCompilado"
 
 
-Fabian Andre Gonzalez Natareno, fabian.gonzalez@galileo.edu, 25007863
+## Fabian Andre Gonzalez Natareno, fabian.gonzalez@galileo.edu, 25007863
