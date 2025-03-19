@@ -6,10 +6,9 @@ Conversor de monedas entre Quetzalez, Euros y Dolares de código abierto.
 
 ## Prerrequisitos:
 
-Instalación de apache2 y PHP (para los siguientes sistemas operativos: Ubuntu, Ubuntu Server, Debian, Linux Mint, Kali Linux, Pop!_OS, MX Linux, Parrot OS, Zorin OS, Deepin, Elementary OS, PureOS, Raspberry Pi OS (antes Raspbian), BunsenLabs, Bodhi Linux, AntiX, Solus, Peppermint OS), mediante los siguientes comandos:
+Instalación de build-essential, mediante el siguiente comando:
 
-sudo apt install apache 2
-sudo apt install php
+sudo apt install build-essential
 
 ## Pasos para su ejecución:
 
